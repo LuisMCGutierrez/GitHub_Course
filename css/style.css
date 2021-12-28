@@ -1,0 +1,33 @@
+h1,
+h3 {
+  text-align: center;
+}
+p {
+  text-align: center;
+  margin-left: 2%;
+}
+article {
+  align-items: center;
+}
+.imagen {
+  width: 100%;
+  border-radius: 8px;
+}
+.polaroid,
+p {
+  width: 25%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  border-radius: 8px;
+}
+.nombreDeItem {
+  text-align: right;
+  padding: 10px 20%;
+}
+.areaDeSupermercado {
+  font-size: 40px;
+}
+.elementoLista {
+  font-size: 20px;
+}
